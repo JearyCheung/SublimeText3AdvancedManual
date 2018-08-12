@@ -1,14 +1,54 @@
-<h1>Sublime Text 使用手册</h1>
+<h1>Sublime Text 进阶使用手册</h1>
 
 文档基于 **Sublime Text v3.1.1 Build 3176** 编写，系 **Sublime Text** 进阶使用篇，文章内容偏技术类，需要一定的基础，菜鸟可能需要花点时间，不懂请自行百度或 Google 脑补（想上 Google 吗？那得科学上网）。
 
-讲述内容囊括了常用快捷键、个性化设置、插件推荐、插件配置，以及使用中遇到的各种问题等。配置纯属个人开发环境需求，供学习参考用，如有纰漏，请 Issues 指正。
+讲述内容囊括了常用快捷键、个性化设置、插件推荐、插件配置，以及使用中遇到的各种问题等。配置纯属个人开发环境需求，供学习参考用，如有纰漏或疑问，请 [Issues](https://github.com/JearyCheung/SublimeText3AdvancedManual/issues) 我。
 
 **注意（此项非常重要）：** 因插件随时都可能会更新，本手册不保证能跟上开发者脚步，所以插件的设置参数也可能会随之改变，在配置插件时，务必先确认参数是否存在而导致的各种问题！
 
 # 目录
 
 [TOC]
+
+* [常用快捷键（Common HotKey）](#常用快捷键（Common HotKey）)
+* 个性化设置（Customization）
+    * 设置（Settings）
+    * 项目（Projects）
+    * 编译系统（Build System）
+        * SASS 文件编译
+    * 包管理（Packages）
+        * 包控制 Package Control
+        * 功能介绍
+        * 常见错误
+    * 包推荐
+        * 功能包
+        * 编程包
+        * 前端包
+        * 辅助包
+        * 主题插件
+* 配置插件
+    * SideBarEnhancements
+    * Emmet
+        * 插件设置
+        * Error：Please wait a bit while pyV8 binary
+    * Terminal
+    * Pretty JSON
+        * 插件设置
+        * 快捷键
+    * BracketHighlighter
+        * 插件设置
+    * Python PEP8 Autoformat
+        * 使用方法
+    * SublimeTmpl
+        * 插件设置
+    * ColorHighlighter
+    * CodeFormatter
+    * Markdown 插件设置
+        * OmniMarkupPreviewer
+        * Error: 404 Not Found
+    * Evernote
+        * 插件设置
+        * 插件快捷键
 
 # 常用快捷键（Common HotKey）
 

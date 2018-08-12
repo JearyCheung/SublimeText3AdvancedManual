@@ -6,7 +6,9 @@
 
 **注意（此项非常重要）：** 因插件随时都可能会更新，本手册不保证能跟上开发者脚步，所以插件的设置参数也可能会随之改变，在配置插件时，务必先确认参数是否存在而导致的各种问题！
 
-开始阅读：[Sublime Text 3 进阶使用手册](/Sublime Text 进阶使用手册.md)
+---
+
+开始阅读：<a href="/Sublime Text 3 进阶使用手册.md">Sublime Text 3 进阶使用手册</a>
 
 # 目录
 
@@ -15,42 +17,31 @@
 * [常用快捷键（Common HotKey）](#常用快捷键common-hotkey)
 * [个性化设置（Customization）](#个性化设置customization)
     * [设置（Settings）](#设置settings)
-    * 项目（Projects）
-    * 编译系统（Build System）
+    * [项目（Projects）](#项目projects)
+    * [编译系统（Build System）](#编译系统build-system)
         * SASS 文件编译
-    * 包管理（Packages）
+    * [包管理（Packages）](包管理packages)
         * 包控制 Package Control
         * 功能介绍
         * 常见错误
-    * 包推荐
+    * [包推荐](#包推荐)
         * 功能包
         * 编程包
         * 前端包
         * 辅助包
         * 主题插件
-* 配置插件
-    * SideBarEnhancements
-    * Emmet
-        * 插件设置
-        * Error：Please wait a bit while pyV8 binary
-    * Terminal
-    * Pretty JSON
-        * 插件设置
-        * 快捷键
-    * BracketHighlighter
-        * 插件设置
-    * Python PEP8 Autoformat
-        * 使用方法
-    * SublimeTmpl
-        * 插件设置
-    * ColorHighlighter
-    * CodeFormatter
-    * Markdown 插件设置
-        * OmniMarkupPreviewer
-        * Error: 404 Not Found
-    * Evernote
-        * 插件设置
-        * 插件快捷键
+* [配置插件](#配置插件)
+    * [SideBarEnhancements](#sidebarenhancements)
+    * [Emmet](#emmet)
+    * [Terminal](#terminal)
+    * [Pretty JSON](#pretty-json)
+    * [BracketHighlighter](#brackethighlighter)
+    * [Python PEP8 Autoformat](#python-pep8-autoformat)
+    * [SublimeTmpl](#sublimetmpl)
+    * [ColorHighlighter](#colorhighlighter)
+    * [CodeFormatter](#codeformatter)
+    * [Markdown 插件设置](#markdown-插件设置)
+    * [Evernote](#evernote)
 
 # 常用快捷键（Common HotKey）
 

@@ -6,8 +6,6 @@
 
 **注意（非常重要）：** 因插件随时都可能会更新，本手册不保证能跟上开发者脚步，所以插件的设置参数也可能会随之改变，在配置插件时，务必先确认参数是否存在而导致的各种问题！
 
-在线阅读：<a href="/Sublime Text 3 进阶使用手册.md">Sublime Text 3 进阶使用手册</a>
-
 ---
 
 <p style="font-size: 30px; font-weight: 300; text-align: center;">撰写不易，有钱捧个钱场 :)</p>
@@ -16,8 +14,6 @@
     <img src="img/Alipay.jpg" alt="支付宝支付" width="300">
     <img src="img/WeChatPay.jpg" alt="微信支付" width="300">
 </div>
-
----
 
 # 目录
 
@@ -55,6 +51,10 @@
     * [CodeFormatter](#codeformatter)
     * [Markdown 插件设置](#markdown-插件设置)
     * [Evernote](#evernote)
+
+---
+
+在线阅读：<a href="/Sublime Text 3 进阶使用手册.md">Sublime Text 3 进阶使用手册</a>
 
 ---
 

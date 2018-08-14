@@ -13,8 +13,8 @@
 <p style="font-size: 30px; font-weight: 300; text-align: center;">撰写不易，有钱捧个钱场 :)</p>
 <br>
 <div align="center">
-    <img src="/img/Alipay.jpg" alt="支付宝支付" width="300">
-    <img src="/img/WeChatPay.jpg" alt="微信支付" width="300">
+    <img src="img/Alipay.jpg" alt="支付宝支付" width="300">
+    <img src="img/WeChatPay.jpg" alt="微信支付" width="300">
 </div>
 
 ---

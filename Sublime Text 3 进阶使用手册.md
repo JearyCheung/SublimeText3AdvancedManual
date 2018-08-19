@@ -53,6 +53,8 @@
 
 # 欢迎捐赠
 
+可考虑捐赠支持下作者，支持我做得更好，帮助更多的人，金额随意。
+
 <h3 align="center" style="font-size: 30px; font-weight: 300;">领红包或赞助支持支持作者 ^_^</h3>
 <h3 align="center" style="font-size: 30px; font-weight: 300;">扫码或打开支付宝首页搜索“517446586”即可领红包（保存永久可领）</h3>
 <div align="center">

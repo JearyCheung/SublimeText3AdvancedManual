@@ -56,9 +56,9 @@
 <h3 align="center" style="font-size: 30px; font-weight: 300;">领红包或赞助支持支持作者 ^_^</h3>
 <h3 align="center" style="font-size: 30px; font-weight: 300;">扫码或打开支付宝首页搜索“517446586”即可领红包（保存永久可领）</h3>
 <div align="center">
-    <img src="img/AlipayBonus.png" alt="支付宝红包码" width="300">
-    <img src="img/Alipay.jpg" alt="支付宝支付" width="300">
-    <img src="img/WeChatPay.jpg" alt="微信支付" width="300">
+    <img src="img/AlipayBonus.png" alt="支付宝红包码" width="290">
+    <img src="img/Alipay.jpg" alt="支付宝支付" width="290">
+    <img src="img/WeChatPay.jpg" alt="微信支付" width="290">
 </div>
 
 ---
